@@ -32,9 +32,6 @@ public class TennisTest {
 		assertEquals("A Aduantage", Tennis.getState(3, 4));
 		assertEquals("A Win", Tennis.getState(6, 2));
 		assertEquals("B Win", Tennis.getState(3, 9));
-		
-		
-		
 	}
 
 }
